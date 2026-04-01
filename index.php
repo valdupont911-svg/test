@@ -42,4 +42,3 @@ if ($_SERVER['REQUEST_METHOD'] == 'OPTIONS') {
  <body>
  
  "></iframe><div class=intercom-lightweight-app><style id=intercom-lightweight-app-style class=sf-hidden>@keyframes intercom-lightweight-app-launcher{from{opacity:0;transform:scale(0.5)}to{opacity:1;transform:scale(1)}}@keyframes intercom-lightweight-app-gradient{from{opacity:0}to{opacity:1}}@keyframes intercom-lightweight-app-messenger{0%{opacity:0;transform:scale(0)}40%{opacity:1}100%{transform:scale(1)}}.intercom-lightweight-app{position:fixed;z-index:2147483001;width:0;height:0;font-family:system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}.intercom-lightweight-app-launcher:hover{transition:transform 250ms cubic-bezier(0.33,0.00,0.00,1.00);transform:scale(1.1)}.intercom-lightweight-app-launcher:active{transform:scale(0.85);transition:transform 134ms cubic-bezier(0.45,0,0.2,1)}.intercom-lightweight-app-launcher:focus{outline:none}</style></div>
-
